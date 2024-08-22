@@ -1,8 +1,8 @@
 @prefix dct: <http://purl.org/dc/terms/>.
-@prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
-@prefix n0: <https://w3id.org/iqb/v41/b1/>. 
-@prefix n1: <https://w3id.org/iqb/v41/b1/>. 
+@prefix n0: <https://w3id.org/iqb/v41/b1/>.
+@prefix n1: <https://w3id.org/iqb/v41/b1/>.
 
 n1:a3b
 	 a skos:Concept;
@@ -45,9 +45,9 @@ n1:g9e
 	skos:inScheme n0:;
 	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Konzept vom Aufbau und von den Eigenschaften der Stoffe und ihrer Teilchen"@de; 
+	skos:prefLabel "Konzept vom Aufbau und von den Eigenschaften der Stoffe und ihrer Teilchen"@de;
 	skos:definition "Die Art, Anordnung und Wechselwirkung der Teilchen bestimmen die Struktur und die Eigenschaften eines Stoffes und können daher durch ein Basiskonzept inhaltlich kohärent beschrieben werden. Dabei werden Phänomene auf der makroskopischen Ebene und deren Deutung auf der submikroskopischen Ebene konsequent unterschieden. In diesem Basiskonzept werden vor allem die folgenden Gesichtspunkte systematisch betrachtet:"@de;
-	skos:narrower 
+	skos:narrower
 		n1:a3b,
 		n1:z5t,
 		n1:z5g,
@@ -83,9 +83,9 @@ n1:x7v
 	skos:inScheme n0:;
 	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Konzept der chemischen Reaktion"@de; 
+	skos:prefLabel "Konzept der chemischen Reaktion"@de;
 	skos:definition "Chemische Reaktionen werden in diesem Basiskonzept vor allem unter den folgenden Gesichtspunkten systematisch betrachtet:"@de;
-	skos:narrower 
+	skos:narrower
 		n1:s5x,
 		n1:d2x,
 		n1:h3d,
@@ -113,9 +113,9 @@ n1:v4q
 	skos:inScheme n0:;
 	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Energiekonzept"@de; 
+	skos:prefLabel "Energiekonzept"@de;
 	skos:definition "Energetische Betrachtungen spielen eine wichtige Rolle zur Beschreibung von Teilchen- und Stoffumwandlungen. In diesem Zusammenhang sind vor allem die folgenden Aspekte bedeutsam:"@de;
-	skos:narrower 
+	skos:narrower
 		n1:x5t,
 		n1:a9v,
 		n1:z6e.
@@ -123,7 +123,8 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Bildungsstandards Chemie 2024 - Basiskonzepte"@de;
-	dct:description """Der Beschreibung von chemischen Sachverhalten liegen fachspezifische Gemeinsamkeiten zugrunde, die sich in Form von Basiskonzepten strukturieren lassen. Die Basiskonzepte im Fach Chemie ermöglichen die Vernetzung fachlicher Inhalte und deren Betrachtung aus verschiedenen Perspektiven. Die Basiskonzepte werden übergreifend auf alle Kompetenzbereiche bezogen. Sie können kumulativ den Aufbau von strukturiertem Wissen und die Erschließung neuer Inhalte fördern.
+	dc:title "Bildungsstandards Chemie 2024 - Basiskonzepte"@de;
+	dc:description """Der Beschreibung von chemischen Sachverhalten liegen fachspezifische Gemeinsamkeiten zugrunde, die sich in Form von Basiskonzepten strukturieren lassen. Die Basiskonzepte im Fach Chemie ermöglichen die Vernetzung fachlicher Inhalte und deren Betrachtung aus verschiedenen Perspektiven. Die Basiskonzepte werden übergreifend auf alle Kompetenzbereiche bezogen. Sie können kumulativ den Aufbau von strukturiertem Wissen und die Erschließung neuer Inhalte fördern.
 
 Das Fach Chemie ist im Besonderen durch die Beschreibung des Aufbaus und der Eigenschaften von Stoffen, ihren Reaktionen sowie energetischer Zusammenhänge gekennzeichnet, woraus die folgenden drei Basiskonzepte resultieren."""@de;
 	skos:hasTopConcept
