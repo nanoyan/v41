@@ -58,7 +58,7 @@ n1:q61
 	skos:notation "S 0";
 	skos:broader n1:g6g;
 	skos:prefLabel "Beschreiben chemischer Sachverhalte"@de; 
-	skos:definition "Die Lernenden beschreiben einen chemischen Sachverhalt sowohl auf makroskopischer und submikroskopischer Ebene als auch auf der Ebene der Repräsentationen."@de;
+	skos:definition "Die Lernenden beschreiben einen chemischen Sachverhalt sowohl auf makroskopischer und submikroskopischer Ebene als auch auf der Ebene der Repräsentationen."@de.
 n1:q6v
 	 a skos:Concept;
 	skos:inScheme n0:;
