@@ -1,8 +1,8 @@
 @prefix dct: <http://purl.org/dc/terms/>.
-@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
-@prefix n0: <https://w3id.org/iqb/v41/k1/>.
-@prefix n1: <https://w3id.org/iqb/v41/k1/>.
+@prefix n0: <https://w3id.org/iqb/v41/k1/>. 
+@prefix n1: <https://w3id.org/iqb/v41/k1/>. 
 
 n1:q9x
 	 a skos:Concept;
@@ -57,9 +57,9 @@ n1:q6v
 	skos:inScheme n0:;
 	skos:notation "1.1";
 	skos:broader n1:g6g;
-	skos:prefLabel "Die makroskopische Ebene"@de;
+	skos:prefLabel "Die makroskopische Ebene"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:q9x,
 		n1:f7g,
 		n1:h2b,
@@ -127,9 +127,9 @@ n1:r9v
 	skos:inScheme n0:;
 	skos:notation "1.2";
 	skos:broader n1:g6g;
-	skos:prefLabel "Die submikroskopische Ebene"@de;
+	skos:prefLabel "Die submikroskopische Ebene"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:g6z,
 		n1:c3y,
 		n1:y3a,
@@ -162,9 +162,9 @@ n1:x3t
 	skos:inScheme n0:;
 	skos:notation "1.3";
 	skos:broader n1:g6g;
-	skos:prefLabel "Die Ebene der Repräsentationen"@de;
+	skos:prefLabel "Die Ebene der Repräsentationen"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:v3x,
 		n1:x6y,
 		n1:t7v.
@@ -173,9 +173,9 @@ n1:g6g
 	skos:inScheme n0:;
 	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Sachkompetenz"@de;
+	skos:prefLabel "Sachkompetenz"@de; 
 	skos:definition "Die Chemie betrachtet Stoffe, deren Eigenschaften, Umwandlungen sowie Verwendungsmöglichkeiten phänomenologisch und zieht zu deren Erklärung Modelle auf der submikroskopischen Ebene heran. Zur Verknüpfung zwischen makroskopischer und submikroskopischer Ebene, aber auch zu deren Unterscheidung spielen chemiespezifische Repräsentationsformen als eigene Betrachtungsebene eine zentrale Rolle. Um dies zu verdeutlichen, wird den folgenden Standardformulierungen der übergeordnete Standard S 0 vorangestellt."@de;
-	skos:narrower
+	skos:narrower 
 		n1:q6v,
 		n1:r9v,
 		n1:x3t.
@@ -214,9 +214,9 @@ n1:e2c
 	skos:inScheme n0:;
 	skos:notation "2.1";
 	skos:broader n1:g3r;
-	skos:prefLabel "Erkenntnisse mithilfe von Experimenten gewinnen"@de;
+	skos:prefLabel "Erkenntnisse mithilfe von Experimenten gewinnen"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:p2b,
 		n1:b5x,
 		n1:e3b,
@@ -263,9 +263,9 @@ n1:u5p
 	skos:inScheme n0:;
 	skos:notation "2.2";
 	skos:broader n1:g3r;
-	skos:prefLabel "Modelle im Rahmen der Erkenntnisgewinnung nutzen"@de;
+	skos:prefLabel "Modelle im Rahmen der Erkenntnisgewinnung nutzen"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:u4d,
 		n1:x7v,
 		n1:b5h,
@@ -307,9 +307,9 @@ n1:g7a
 	skos:inScheme n0:;
 	skos:notation "2.3";
 	skos:broader n1:g3r;
-	skos:prefLabel "Erkenntnisprozesse reflektieren"@de;
+	skos:prefLabel "Erkenntnisprozesse reflektieren"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:u9e,
 		n1:f3y,
 		n1:f7b,
@@ -320,9 +320,9 @@ n1:g3r
 	skos:inScheme n0:;
 	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Erkenntnisgewinnungskompetenz"@de;
+	skos:prefLabel "Erkenntnisgewinnungskompetenz"@de; 
 	skos:definition "Fachbezogene Denkweisen und Untersuchungsmethoden mit ihren konzeptionellen Rahmen werden der Erkenntnisgewinnungskompetenz zugeordnet. Die Chemie steht in einem fachwissenschaftlichen, gesellschaftlichen und historischen Zusammenhang, der sich in der Auswahl der Sachverhalte für die fachbezogene Erkenntnisgewinnung widerspiegeln soll. Um Erkenntnisprozesse nachvollziehen und gestalten zu können, müssen die Lernenden in der Lage sein, die für den zu bearbeitenden Sachverhalt bedeutsamen und durch das Fach Chemie beantwortbaren Fragestellungen zu erkennen sowie geeignete Denkweisen und Untersuchungsmethoden anzuwenden, diesen Fragestellungen chemisch nachzugehen. Der konzeptionelle Rahmen einer Untersuchungsmethode umfasst die Auswahl und Einengung des Untersuchungsgegenstandes, die Planung und Bewertung verschiedener möglicher Methoden der Erkenntnisgewinnung sowie die kritische Reflexion ihrer Durchführung durch die Lernenden. Dies beinhaltet die Organisation der Arbeitsschritte sowie das Beherrschen fachtypischer Denkweisen, Recherche-, Arbeits- und Auswertungstechniken. Zentrale Bedeutung haben dabei das chemische Experiment sowie die Nutzung von Modellen. Zu berücksichtigen sind in angemessenem Maße auch sprachliche und quantifizierend-mathematische Formalisierungen der Chemie. Die Ergebnisse ihrer Arbeit werden durch die Lernenden vor dem Hintergrund der Ausgangsfrage, der experimentellen Rahmenbedingungen und der zugrunde gelegten Modellvorstellung geprüft. Die Verknüpfung gewonnener Erkenntnisse mit bereits geläufigen Konzepten, Modellen und Theorien führt zur Fähigkeit, chemische Phänomene auch im Alltag zu erkennen und zu erklären und zu den Basiskonzepten in Beziehung zu setzen. Dadurch wird ein Beitrag für die Entwicklung eines naturwissenschaftlichen Weltverständnisses geleistet. In diesem Zusammenhang entwickeln die Lernenden ein Verständnis zur Rolle und Bedeutung der Wissenschaft Chemie im Verbund der Naturwissenschaften, erkennen Ähnlichkeiten in den Denk- und Arbeitsweisen, aber auch chemiespezifische Besonderheiten."@de;
-	skos:narrower
+	skos:narrower 
 		n1:e2c,
 		n1:u5p,
 		n1:g7a.
@@ -349,9 +349,9 @@ n1:v5s
 	skos:inScheme n0:;
 	skos:notation "3.1";
 	skos:broader n1:z3q;
-	skos:prefLabel "Informationen erschließen"@de;
+	skos:prefLabel "Informationen erschließen"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:e6a,
 		n1:y9h,
 		n1:t3p.
@@ -384,9 +384,9 @@ n1:v7u
 	skos:inScheme n0:;
 	skos:notation "3.2";
 	skos:broader n1:z3q;
-	skos:prefLabel "Informationen aufbereiten"@de;
+	skos:prefLabel "Informationen aufbereiten"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:c7b,
 		n1:r5x,
 		n1:h9c,
@@ -426,9 +426,9 @@ n1:s3b
 	skos:inScheme n0:;
 	skos:notation "3.3";
 	skos:broader n1:z3q;
-	skos:prefLabel "Informationen austauschen und diskutieren"@de;
+	skos:prefLabel "Informationen austauschen und diskutieren"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:x9c,
 		n1:s4e,
 		n1:a2u,
@@ -439,9 +439,9 @@ n1:z3q
 	skos:inScheme n0:;
 	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kommunikationskompetenz"@de;
+	skos:prefLabel "Kommunikationskompetenz"@de; 
 	skos:definition "Im Bereich der Kommunikationskompetenz werden Fähigkeiten und Fertigkeiten beschrieben, die für einen sinnstiftenden Umgang mit fachbezogenen Informationen erforderlich sind. Die dazu erforderlichen Prozesse sind geprägt von der Notwendigkeit, chemische Fach- und Formelsprache verstehen und korrekt anwenden zu können sowie zwischen Alltagssprache und Fachsprache zu übersetzen. Dabei überprüfen die Lernenden Informationen daraufhin, ob die darin getroffenen Aussagen chemisch korrekt sind. Sie können ihre Positionen fachbasiert darstellen und nutzen dazu ein breites Spektrum an Mitteln (z. B. verbal, symbolisch, mathematisch). Sie reflektieren, finden Argumente oder revidieren gegebenenfalls ihre Aussagen aufgrund der vorgetragenen Einwände. Der Nutzung digitaler Medien und Werkzeuge kommt in diesem Kompetenzbereich eine hohe Bedeutung zu, indem diese sinnstiftend in Lernprozesse eingebunden werden bzw. ihr Einsatz kritisch reflektiert wird."@de;
-	skos:narrower
+	skos:narrower 
 		n1:v5s,
 		n1:v7u,
 		n1:s3b.
@@ -468,9 +468,9 @@ n1:z7h
 	skos:inScheme n0:;
 	skos:notation "4.1";
 	skos:broader n1:a2d;
-	skos:prefLabel "Sachverhalte und Informationen kriteriengeleitet bewerten."@de;
+	skos:prefLabel "Sachverhalte und Informationen kriteriengeleitet bewerten."@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:u7y,
 		n1:d3c,
 		n1:t6d.
@@ -503,9 +503,9 @@ n1:z2q
 	skos:inScheme n0:;
 	skos:notation "4.2";
 	skos:broader n1:a2d;
-	skos:prefLabel "Meinungen bilden und Entscheidungen treffen"@de;
+	skos:prefLabel "Meinungen bilden und Entscheidungen treffen"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:s3g,
 		n1:c3t,
 		n1:f2s,
@@ -527,9 +527,9 @@ n1:d5e
 	skos:inScheme n0:;
 	skos:notation "4.3";
 	skos:broader n1:a2d;
-	skos:prefLabel "Entscheidungen und deren Folgen reflektieren"@de;
+	skos:prefLabel "Entscheidungen und deren Folgen reflektieren"@de; 
 	skos:definition "Die Lernenden…"@de;
-	skos:narrower
+	skos:narrower 
 		n1:b4a,
 		n1:v3d.
 n1:a2d
@@ -537,9 +537,9 @@ n1:a2d
 	skos:inScheme n0:;
 	skos:notation "4";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Bewertungskompetenz"@de;
+	skos:prefLabel "Bewertungskompetenz"@de; 
 	skos:definition "Die Kenntnis und Reflexion der Beziehungen zwischen Naturwissenschaft, Technik, Individuum und Gesellschaft gehören zum Bereich der Bewertungskompetenz. Eine besondere Bedeutung kommt dabei dem Abwägen von Handlungsoptionen unter Berücksichtigung von Bewertungskriterien aus fachlicher Perspektive zu. Dabei ist es fundamental, entsprechende chemische Sachverhalte aus der Perspektive aller drei Basiskonzepte zu betrachten. Durch die Auswahl geeigneter Themen können die Lernenden Vernetzungen der Chemie in Lebenswelt, Alltag, Umwelt, Wissenschaft und Technik erkennen und hinsichtlich ihrer Bedeutung und Anwendung bewerten. Die gezielte Auswahl chemierelevanter Kontexte ermöglicht es den Lernenden, Fachkenntnisse auf neue vergleichbare Fragestellungen zu übertragen, Probleme in realen Situationen zu erfassen, Interessenkonflikte auszumachen, mögliche Lösungen zu erwägen, deren Konsequenzen zu diskutieren und Handlungsoptionen abzuleiten."@de;
-	skos:narrower
+	skos:narrower 
 		n1:z7h,
 		n1:z2q,
 		n1:d5e.
@@ -547,8 +547,7 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Bildungsstandards Chemie 2024 - Bildungsstandards für die Kompetenzbereiche im Fach Chemie"@de;
-	dc:title "Bildungsstandards Chemie 2024 - Bildungsstandards für die Kompetenzbereiche im Fach Chemie"@de;
-	dc:description """Mit dem Erwerb des Mittleren Schulabschlusses verfügen die Lernenden über Kompetenzen in den Naturwissenschaften im Allgemeinen sowie über Kompetenzen in der Chemie im Besonderen. Die in der Sekundarstufe I erworbenen Kompetenzen und Inhalte bilden unter anderem die Grundlage für die unterrichtliche Arbeit in der Sekundarstufe II.
+	dct:description """Mit dem Erwerb des Mittleren Schulabschlusses verfügen die Lernenden über Kompetenzen in den Naturwissenschaften im Allgemeinen sowie über Kompetenzen in der Chemie im Besonderen. Die in der Sekundarstufe I erworbenen Kompetenzen und Inhalte bilden unter anderem die Grundlage für die unterrichtliche Arbeit in der Sekundarstufe II.
 
 Das den Bildungsstandards für den Mittleren Schulabschluss zugrunde liegende Modell der naturwissenschaftsbezogenen Kompetenzen umfasst die vier Kompetenzbereiche Sach-, Erkenntnisgewinnungs-, Kommunikations- und Bewertungskompetenz:
 
