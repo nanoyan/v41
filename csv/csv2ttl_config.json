@@ -1,0 +1,83 @@
+{
+    "id": "2024Chemie",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Chemie 2024"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v41",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Bildungsstandards für die Kompetenzbereiche im Fach Chemie"
+          }
+        ],
+        "filenameSource": "k2_Bildungsstandards_Kompetenzbereiche.csv",
+        "filenameTarget": "k2_Bildungsstandards_Kompetenzbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Mit dem Erwerb des Mittleren Schulabschlusses verfügen die Lernenden über Kompetenzen in den Naturwissenschaften im Allgemeinen sowie über Kompetenzen in der Chemie im Besonderen. Die in der Sekundarstufe I erworbenen Kompetenzen und Inhalte bilden unter anderem die Grundlage für die unterrichtliche Arbeit in der Sekundarstufe II.\n\nDas den Bildungsstandards für den Mittleren Schulabschluss zugrunde liegende Modell der naturwissenschaftsbezogenen Kompetenzen umfasst die vier Kompetenzbereiche Sach-, Erkenntnisgewinnungs-, Kommunikations- und Bewertungskompetenz:\n\nDie Sachkompetenz der Lernenden zeigt sich in der Kenntnis naturwissenschaftlicher Begriffe, Konzepte, Gesetzmäßigkeiten, Theorien und Verfahren verbunden mit der Fähigkeit, diese zu beschreiben, zu erklären, sachgerecht zu nutzen und auf fach- und alltagsbezogene Sachverhalte zu übertragen. Der Auseinandersetzung mit naturwissenschaftlichen Phänomenen auf der makroskopischen und submikroskopischen Ebene sowie der Ebene der Repräsentationen kommt dabei eine besondere Bedeutung zu.\n\nDie Erkenntnisgewinnungskompetenz der Lernenden zeigt sich in der Kenntnis grundlegender naturwissenschaftlicher Denk- und Arbeitsweisen verbunden mit der Fähigkeit, diese zu beschreiben, zu erklären, für Erkenntnisprozesse systematisch zu nutzen und deren Möglichkeiten und Grenzen zu reflektieren. Für das Fach Chemie sind hier insbesondere Experimente, Untersuchungen sowie die Nutzung von Modellen zu nennen.\n\nDie Kommunikationskompetenz der Lernenden zeigt sich in der Kenntnis von Fachsprache und fachtypischen Darstellungen verbunden mit der Fähigkeit, daraus fachbezogene Informationen zu erschließen, diese adressaten- und situationsgerecht aufzubereiten und sich argumentativ auszutauschen. Im Fach Chemie spielt die Nutzung der Formelsprache dabei eine wichtige Rolle.\n\nDie Bewertungskompetenz der Lernenden zeigt sich in der Kenntnis von fachlichen und überfachlichen Perspektiven und Bewertungsverfahren verbunden mit der Fähigkeit, Handlungsoptionen anhand verschiedener Kriterien zu beurteilen, um Entscheidungen auch auf ethischer Grundlage zu treffen, die Folgen abzuschätzen und Entscheidungsprozesse zu reflektieren.\n\nDiese vier Kompetenzbereiche durchdringen einander und bilden gemeinsam die Fachkompetenz im Fach Chemie ab. Kompetenzen zeigen sich in der Verbindung von Kenntnissen und Fähigkeiten in den jeweiligen Kompetenzbereichen und sind nur im Umgang mit Inhalten zu erwerben. Die Kompetenzbereiche sind in Teilkompetenzbereiche untergliedert. Sie werden in Form von Regelstandards präzisiert, die von Lernenden bis zum Erreichen des Mittleren Schulabschlusses zu erwerben sind. Verbindliche inhaltliche Aspekte, anhand derer Kompetenzen erworben werden, sind im Kapitel Verbindliche inhaltliche Aspekte aufgeführt.\n\nDie drei Unterrichtsfächer Biologie, Chemie und Physik bilden die inhaltliche Dimension durch Basiskonzepte ab. In der Chemie wird die Inhaltsdimension durch drei Basiskonzepte (vgl. Kapitel Basiskonzepte) strukturiert. Mit diesen Basiskonzepten können Phänomene chemisch beschrieben, geordnet und erklärt werden. Sie finden daher in allen vier Kompetenzbereichen Berücksichtigung.\n\nDie prozedurale Dimension bezieht sich auf grundlegende Elemente der naturwissenschaftlichen Erkenntnisgewinnung, also auf experimentelles und theoretisches Arbeiten, auf Kommunikation und auf die Anwendung und Bewertung chemischer Sachverhalte in fachlichen und gesellschaftlichen Kontexten. Diese beiden Dimensionen chemischen Arbeitens ermöglichen es den Lernenden, vielfältige Kompetenzen zu erwerben, die ihnen helfen, die natürliche und kulturelle Welt zu verstehen und zu erklären. Die Kompetenzen beschreiben Ergebnisse des Lernens im Sinne von Wissen und Können, geben aber keine Unterrichtsmethoden oder -strategien vor.\"\""
+          }
+        ]
+      },
+      {
+        "id": "b1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Basiskonzepte"
+          }
+        ],
+        "filenameSource": "b1_Basiskonzepte.csv",
+        "filenameTarget": "b1_Basiskonzepte.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Der Beschreibung von chemischen Sachverhalten liegen fachspezifische Gemeinsamkeiten zugrunde, die sich in Form von Basiskonzepten strukturieren lassen. Die Basiskonzepte im Fach Chemie ermöglichen die Vernetzung fachlicher Inhalte und deren Betrachtung aus verschiedenen Perspektiven. Die Basiskonzepte werden übergreifend auf alle Kompetenzbereiche bezogen. Sie können kumulativ den Aufbau von strukturiertem Wissen und die Erschließung neuer Inhalte fördern.\n\nDas Fach Chemie ist im Besonderen durch die Beschreibung des Aufbaus und der Eigenschaften von Stoffen, ihren Reaktionen sowie energetischer Zusammenhänge gekennzeichnet, woraus die folgenden drei Basiskonzepte resultieren.\"\""
+          }
+        ]
+      },
+      {
+        "id": "i1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Verbindliche inhaltliche Aspekte"
+          }
+        ],
+        "filenameSource": "i1_Verbindliche_inhaltliche_Aspekte.csv",
+        "filenameTarget": "i1_Verbindliche_inhaltliche_Aspekte.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Die Liste verbindlicher inhaltlicher Aspekte dient dazu, einen einheitlichen Grundstock an Inhalten und Konzepten zu benennen, an denen die in den Bildungsstandards für das Fach Chemie definierten Kompetenzen erlernt und überprüft werden können. Da die Basiskonzepte des Fachs Chemie in allen Kompetenzbereichen bedeutsam sind, wurden sie zur Strukturierung der verbindlichen inhaltlichen Aspekte gewählt. Die Liste der inhaltlichen Aspekte ist bewusst auf einem mittleren Grad der Detailliertheit formuliert, so dass Aufgaben zur Überprüfung der Bildungsstandards ableitbar sind. Mit den aufgeführten inhaltlichen Aspekten ist dabei immer der einfachste Fall gemeint; landesspezifische Ergänzungen und Präzisierungen können vorgenommen werden.\"\""
+          }
+        ]
+      },
+      {
+        "id": "a1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Anforderungsbereiche"
+          }
+        ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "Mit Blick auf die unterrichtliche Einbindung von Aufgaben werden folgende Anforderungsbereiche\nunterschieden:"
+          }
+        ]
+      }
+    ]
+  }
