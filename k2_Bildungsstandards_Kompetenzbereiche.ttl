@@ -4,6 +4,13 @@
 @prefix n0: <https://w3id.org/iqb/v41/k1/>. 
 @prefix n1: <https://w3id.org/iqb/v41/k1/>. 
 
+n1:q61
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "S 0";
+	skos:broader n1:g6g;
+	skos:prefLabel "Beschreiben chemischer Sachverhalte"@de; 
+	skos:definition "Die Lernenden beschreiben einen chemischen Sachverhalt sowohl auf makroskopischer und submikroskopischer Ebene als auch auf der Ebene der Repräsentationen."@de.
 n1:q9x
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -68,13 +75,6 @@ n1:q6v
 		n1:y9u,
 		n1:a3g,
 		n1:q4s.
-n1:q61
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "S 0";
-	skos:broader n1:g6g;
-	skos:prefLabel "Beschreiben chemischer Sachverhalte"@de; 
-	skos:definition "Die Lernenden beschreiben einen chemischen Sachverhalt sowohl auf makroskopischer und submikroskopischer Ebene als auch auf der Ebene der Repräsentationen."@de.
 n1:g6z
 	 a skos:Concept;
 	skos:inScheme n0:;
