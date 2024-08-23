@@ -183,7 +183,7 @@ n1:g6g
 	skos:prefLabel "Sachkompetenz"@de; 
 	skos:definition "Die Chemie betrachtet Stoffe, deren Eigenschaften, Umwandlungen sowie Verwendungsmöglichkeiten phänomenologisch und zieht zu deren Erklärung Modelle auf der submikroskopischen Ebene heran. Zur Verknüpfung zwischen makroskopischer und submikroskopischer Ebene, aber auch zu deren Unterscheidung spielen chemiespezifische Repräsentationsformen als eigene Betrachtungsebene eine zentrale Rolle. Um dies zu verdeutlichen, wird den folgenden Standardformulierungen der übergeordnete Standard S 0 vorangestellt."@de;
 	skos:narrower 
-		n1:qv1,
+		n1:q61,
 		n1:q6v,
 		n1:r9v,
 		n1:x3t.
